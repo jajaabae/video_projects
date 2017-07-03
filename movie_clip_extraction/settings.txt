@@ -1,0 +1,7 @@
+extract_path	K:\fileFolder\mine_media\mine_prosjekter\zouk\0_MovieProjects\ectracted_clips\NEW_EXPORTS
+extract_root	K:\fileFolder\mine_media\mine_prosjekter\zouk\0_MovieProjects\ectracted_clips
+orig_path	K:\fileFolder\mine_media\mine_prosjekter\zouk\Video
+out_type	.mp4
+my_ffmpeg_path	C:\Users\Atrakaz\Google Drive\ContinousBackup\ProgramsOnDrive\WinPython-32bit-2.7.10.2\ffmpeg-20160908-2793ebd-win32-shared\bin
+fade	True
+fade_interval	1
